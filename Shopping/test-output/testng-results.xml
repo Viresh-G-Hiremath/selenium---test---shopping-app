@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60073" started-at="2022-01-02T13:59:22Z" finished-at="2022-01-02T14:00:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60073" started-at="2022-01-02T13:59:22Z" finished-at="2022-01-02T14:00:22Z">
+      <class name="testNG.TestClass">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:testNG.TestClass@4f933fd1]" name="browserLaunch" is-config="true" duration-ms="18696" started-at="2022-01-02T19:29:22Z" finished-at="2022-01-02T19:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="shopping_test()[pri:0, instance:testNG.TestClass@4f933fd1]" name="shopping_test" duration-ms="41265" started-at="2022-01-02T19:29:40Z" finished-at="2022-01-02T19:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopping_test -->
+        <test-method status="PASS" signature="BrowserClose()[pri:0, instance:testNG.TestClass@4f933fd1]" name="BrowserClose" is-config="true" duration-ms="89" started-at="2022-01-02T19:30:22Z" finished-at="2022-01-02T19:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+      </class> <!-- testNG.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
